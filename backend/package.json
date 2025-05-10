@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
@@ -14,10 +15,13 @@
     "bcryptjs": "^3.0.2",
     "cloudinary": "^2.6.0",
     "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "jquery": "^3.7.1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.12.1",
+    "path": "^0.12.7",
     "socket.io": "^4.8.1"
   },
   "devDependencies": {
