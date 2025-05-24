@@ -24,32 +24,6 @@ A full-stack real-time chat web application built using React.js, Node.js, Expre
 **Backend:**  
 🟩 Node.js, 🚂 Express.js, 🍃 MongoDB (Mongoose), 🔗 Socket.io, 🔐 bcrypt, 🛡️ JWT  
 
----
-
-## 📂 Project Structure
-
-├── server
-│ ├── controllers/ # 🛠️ API business logic
-│ ├── middleware/ # 🛡️ Auth middleware
-│ ├── models/ # 📦 Mongoose models
-│ ├── routes/ # 🔀 API routes
-│ ├── utils/ # 🔧 Utility functions
-│ ├── server.js # 🚀 Backend entry point
-│ ├── .env # 🔐 Environment variables
-│
-├── client
-│ ├── src
-│ │ ├── components/ # 🧩 Reusable UI components
-│ │ ├── pages/ # 📄 Login, Chat pages
-│ │ ├── store/ # 🗃️ Zustand store
-│ │ ├── App.jsx # 🖥️ App root
-│ │ ├── main.jsx # 🚪 React entry
-│
-├── README.md # 📄 This file
-├── package.json # 📦 Project metadata
-
-
----
 
 ## 💻 Installation & Setup
 
