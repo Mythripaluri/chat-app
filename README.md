@@ -24,7 +24,6 @@ A full-stack real-time chat web application built using React.js, Node.js, Expre
 **Authentication:** JWT  
 **Real-time Communication:** Socket.io
 
----
 
 ## 📂 Project Structure
 
@@ -49,7 +48,6 @@ A full-stack real-time chat web application built using React.js, Node.js, Expre
 ├── package.json # Dependency & scripts for both server & client
 
 
----
 
 ## 💻 Installation & Setup
 
